@@ -20,4 +20,4 @@ Languages and Tools:
 
 ### 🎧 Spotify Playing 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/5bKyb7dKATCIDw3zHiUQon?si=f7ca1b6efbfd4f6b)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/27a8gwnwGlFIBrwauP2aXO?autoplay=true)
