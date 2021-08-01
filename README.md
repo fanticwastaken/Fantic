@@ -2,7 +2,7 @@
 
 Information:
 
-- 😄 I'm 20 years old
+- 😄 I'm 21 years old
 - 📨 My discord: `Fantic#0001`
 - 🤖 My discord bot [click here](https://top.gg/bot/744293924625055796) 
 
