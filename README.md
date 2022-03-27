@@ -7,7 +7,7 @@ Information:
 - 🤖 My discord bot [click here](https://top.gg/bot/744293924625055796) 
 - <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/866849747603816468)](https://discord.com/users/866849747603816468)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/866849747603816468)](https://discord.com/users/610741843432570890)
 
 </div>
 
